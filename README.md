@@ -1,5 +1,3 @@
-# AllProjects
-
 1. [Утилита PrintFile выводящую в стандартный  поток вывода содержимое(частичное содержимое)
 для указанного файла.](https://github.com/kv1sidisi/Project1_PrintFile)
 2. [Пользовательский тип для целого знакового числа фиксированной длины int2023_t.](https://github.com/kv1sidisi/Project2_BigIntType)
