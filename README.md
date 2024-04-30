@@ -9,3 +9,4 @@
 8. [Три STL-совместимых контейнера для BinarySearchTree, реализующие различные способы обхода дерева (in-, pre-, post-order) через итератор.](https://github.com/kv1sidisi/Project8_BST_STL)
 9. [Библиотека адаптеров для упрощенной работы с алгоритмами и контейнерами.](https://github.com/kv1sidisi/Project9_STLAdapters)
 10. [Класс отвечающий за выполнение связанных по данным между собой задач.](https://github.com/kv1sidisi/Project10_TaskScheduler)
+11. [Ранцевая криптосистема Меркла-Хеллмана](https://github.com/kv1sidisi/Project11_Merkle-Hellman_Cryptosystem)
